@@ -53,3 +53,7 @@ streamlit run app.py
 ```
 docker run -p 8501:8501 app:latest
 ```
+
+## References
+[1](https://arxiv.org/pdf/2003.09871.pdf) COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases
+from Chest X-Ray Image. L. Wang and A. Wong., 2020.
