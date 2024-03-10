@@ -4,7 +4,7 @@ Streamlit inference service deployment submodule for Udacity's Machine Learning 
 
  
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1w8V7i8blteQFUvhMuizgKoRHytMzMuGF" width="80%" />
+<img src="https://drive.google.com/uc?export=view&id=1P1g6zNLvHTgCF6E1jnoJ6lqWIHBoCeUI" width="60%" />
 </p>
 
 **DISCLAIMER:** THIS TOOL SHOULD NOT BE USED FOR MEDICAL DIAGNOSIS/REPLACE CONSULTING FROM A MEDICAL EXPERT AND SHOULD SERVE EDUCATIONAL PURPOSES ONLY.
@@ -53,21 +53,3 @@ streamlit run app.py
 ```
 docker run -p 8501:8501 app:latest
 ```
-## Usage
-
-#### Choose a test image:
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1ee-XS2DgVNqcGS5aZ6Le_5INsL_ejIgN" width="50%" />
-</p>
-
-#### Wait for it:
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1gx2DF7p4qL7XQRJS6OAdbshQNdbk3JyK" width="50%" />
-</p>
-
-
-#### Get the result:
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1mHWoq1PBaCR0AzCHF9v8swu2CGWsQuT8" width="50%" />
-</p>
-
